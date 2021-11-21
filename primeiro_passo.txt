@@ -13,3 +13,5 @@ git commit -m
 git pull
 git push
 git merge
+
+...
