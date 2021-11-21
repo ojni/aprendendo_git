@@ -1,8 +1,10 @@
+git init
+git clone
 git branch
 git touch
-git clone
 git checkout
 git add
 git commit -m
 git pull
 git push
+git merge
