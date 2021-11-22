@@ -1,0 +1,17 @@
+O repositório é a pasta do projeto. 
+Todo repositório tem uma pasta oculta .git.
+Isso é o que mostra para o git e para você que existe um repositório naquela pasta.
+
+
+git init
+git clone
+git branch
+git touch
+git checkout
+git add
+git commit -m
+git pull
+git push
+git merge
+
+...
